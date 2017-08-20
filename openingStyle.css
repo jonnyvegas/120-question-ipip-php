@@ -1,0 +1,43 @@
+#opening {
+    padding-top: 3%;
+}
+
+.checkbox {
+}
+
+#secondbox {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#firstbox {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+label {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+#submitbutton {
+    padding-top: 5%;
+}
+
+#two {
+    text-decoration: underline;
+}
+
+#checkparagraph {
+    font-weight: bold;
+    font-size: 150%;
+    color: red;
+    background-color: black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#endorse {
+    text-decoration: underline;
+    font-weight: bold;
+}

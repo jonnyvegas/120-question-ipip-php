@@ -1,0 +1,28 @@
+.pars {
+    font-size: 200%;
+    color: red;
+    margin: 20% 10%;
+}
+
+.the-table {
+    padding-left: 5%;
+}
+
+.the-div {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+td {
+    padding-right: 0;
+    margin: 0;
+}
+
+tbody {
+    padding: 0;
+}
+
+.the-head{
+    color: cornflowerblue;
+    /*background-color: black;*/
+}

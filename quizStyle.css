@@ -1,0 +1,45 @@
+.table1 {
+    padding-right: 5%;
+    padding-left: 5%;
+    /*border-collapse:separate;*/
+    border-spacing: 40px 10px;
+    margin: 5%;
+}
+
+.table1 td {
+    /*padding-left: 2.5%;*/
+    /*padding-right: 2.5%;*/
+    /*padding-top: 2.5%;*/
+    /*padding-bottom: 2.5%;*/
+}
+
+.table1 th {
+    /*padding-left: 2.5%;*/
+    /*padding-right: 2.5%;*/
+    text-align: center;
+}
+
+.questions {
+    float:left;
+    /*padding-top: 50px;*/
+    /*padding-left: 20%;*/
+    padding-right: 20%;
+}
+
+#halfway{
+    text-align: center;
+    color: red;
+    margin-left: 2%;
+    margin-right: 5%;
+    font-size: 200%;
+}
+
+/*body {*/
+    /*background-color: black;*/
+    /*color: white;*/
+/*}*/
+
+/*tr {*/
+    /*background: blue;*/
+    /*color: black;*/
+/*}*/
